@@ -1,6 +1,6 @@
-# Article Summarizer Application using OpenAI's GPT model
+# Article Summarizer Application using OpenAI's GPT model 🧠
 
-React, Redux, RapidAPI, Tailwind
+💻 React, Redux, RapidAPI, Tailwind
 
 Alongside building this application, I learn how to:
 - setup a ReactJS project using Vite
