@@ -33,7 +33,7 @@ Throughout the development of this application, several key skills and concepts 
 -   **History Tracking**: Save and retrieve user search history using local storage.
 -   **Copy to Clipboard**: Allow users to easily copy the summarized content to the clipboard.
 
-# Getting Started
+### Getting Started
 > Clone the repository
 
     git clone https://github.com/YongJR/ai-summarizer-react.git
