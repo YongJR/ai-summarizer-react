@@ -10,6 +10,7 @@ The Article Summarizer Application is a powerful tool that utilizes OpenAI's GPT
 - Redux Toolkit
 - RapidAPI (for GPT model integration)
 - Tailwind CSS
+- JavaScript (ES6+)
 - HTML5 (Semantically)
 
 ### Learning Objectives
